@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.prerender/
+.git-local/
+.agents/
+.codex/
+.aws/
+AGENTS.md
+SKILL.md
+CLAUDE.md
+.cursor/
+.windsurf/
+.github/copilot-instructions.md
+*.bundle
+.env*
